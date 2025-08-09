@@ -13,7 +13,7 @@ title                    : "Chunlin Lu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Chunlin Lu"
 description              : &description "A graduate student from Central South University, majoring in Artificial Intelligence"
-url                      : https://lul0308.github.io/lcl.github.io/
+url                      : https://lcl.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lcl/lcl.github.io"
 
